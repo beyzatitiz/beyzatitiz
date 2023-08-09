@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">A passionate Python developer from Turkey</h3>
+<h3 align="center">Python Yetkilisi, QA Deneyimli, AWS Yolcusu 🚀</h3>
 
 - 🌱 I’m currently learning **Python**
 
